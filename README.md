@@ -8,5 +8,5 @@
 пустой строкой.
 
 ## Result
-<img src="img/output.png">
-<img src="img/input.png">
+<img src="img/in.png">
+<img src="img/out.png">
