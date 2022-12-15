@@ -8,3 +8,5 @@
 пустой строкой.
 
 ## Result
+<img src="img/output.png">
+<img src="img/input.png">
